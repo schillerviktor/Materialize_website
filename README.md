@@ -1,4 +1,4 @@
-A very simple but functioning Materialize .php complette website with Homepage, Refistration / Sign In, Gallery, embed Location, uploading files, Messages etc. basic functions It was built for my Web-Study in University. You can check & try under: http://www.schillerviktor.nhely.hu/
+A very simple but functioning Materialize .php complette website with Homepage, Registration / Sign In, Gallery, embed Location, uploading files, Messages etc. basic functions. It was built for my Web-Study in University. You can check & try under: http://www.schillerviktor.nhely.hu/
 
 ![My_Website](https://user-images.githubusercontent.com/46298416/187075863-dbad34b2-c90f-4cd6-8a42-539bd1e7316b.jpg)
 ![My_Website_2](https://user-images.githubusercontent.com/46298416/187075865-7ab70a40-73e1-471c-b175-5c5162ac0702.jpg)
